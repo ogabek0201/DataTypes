@@ -130,6 +130,3 @@ let result = condition ? value1 : value2;
 * The remaining values become true, so they are called "truthy".
 
 ---
-# jsLesson-1
-# jsLesson-1
-# jsLesson-1
